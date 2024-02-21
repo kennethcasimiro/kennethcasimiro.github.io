@@ -6,9 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently pursuing full-time employment. 
   My interests are embedded systems, artificial intelligence and software engineering.
   <br><br>
-  N/A
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kencasimiro/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
