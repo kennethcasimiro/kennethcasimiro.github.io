@@ -1,29 +1,27 @@
-## Portfolio
+## ePortfolio
 
 ---
 
-### Category Name 1 
+### Work Experience
 
-[Project 1 Title](/sample_page)
+[Northrop Grumman](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Lawrence Berkeley National Laboratory](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[NASA Jet Propulsion Laboratory](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Extracurricular Activities
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Society of American Military Engineers (SAME)](http://example.com/)
+
+[Association for Computer Machinery (ACM)](http://example.com/)
 
 ---
 
