@@ -1,10 +1,14 @@
 title: Kenneth Casimiro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-Electrical & Computer Engineering @ UC San Diego 2024 <br><br>
-Northrop Grumman Software Engineer Intern 2022-2024<br><br>
-Lawrence Berkeley National Laboratory SWE Intern Summer 2021<br><br>
-NASA JPL Research Intern Spring 2021<br><br>
+  Electrical & Computer Engineering @ UC San Diego 2024
+  Incoming Associate Software Engineer @ Northrop Grumman Fall 2024
+  Northrop Grumman Software Engineer Intern 2022-2024
+  Lawrence Berkeley National Laboratory SWE Intern Summer 2021
+  NASA JPL Research Intern Spring 2021
+  <br><br>
+  My interests are embedded systems, artificial intelligence, and computer graphics.
+  <br><br>
   <a href="https://www.linkedin.com/in/kencasimiro/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
