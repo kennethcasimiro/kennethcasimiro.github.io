@@ -15,14 +15,14 @@ I also verified hardware components related to radio communications through elec
 [Lawrence Berkeley National Laboratory](https://www.lbl.gov/)
 <img src="images/lbnl.jpg?raw=true"/>
 One of four students selected in the STEM Core program to intern at Lawrence Berkeley National Laboratory. I interned in the Computational Research Division for the Scientific Data Management (SDM) Group. \
-My role in the SDM Group is to create and deploy continuous infrastructure components to several repositories from HPC-IO, a GitHub organization that contains various software tools that improve storing and accessing data (i.e., performing I/O) efficiently on high-performance computing (HPC) systems.\
+My role in the SDM Group is to create and deploy continuous infrastructure components to several repositories from HPC-IO, a GitHub organization that contains various software tools that improve storing and accessing data (i.e., performing I/O) efficiently on high-performance computing (HPC) systems.
 
 ---
 [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/)
 <img src="images/jpl.jpg?raw=true"/>
 Completed the Student Independent Research Intern (SIRI) program at NASA JPL for Spring 2021. I was able to gain educational experience in my field while also contributing to NASA and JPL missions and science. \
 I interned for the Roman CGI Science Team where I was mentored by Dr. Marie Ygouf and Dr. Vanessa Bailey. \
-My primary project was to develop image processing tools by performing tests on the most recent simulated data through Python for the Nancy Grace Roman Coronagraph Instrument (CGI).\
+My primary project was to develop image processing tools by performing tests on the most recent simulated data through Python for the Nancy Grace Roman Coronagraph Instrument (CGI).
 
 ---
 
@@ -37,7 +37,7 @@ SAME provides its members extensive opportunities for training, education, and p
 • Elected Head of Student Outreach (2019 - 2021)\
 
 • Managed a team of students to promote campus and community-wide events\
-• Oversaw development of the chapter to further impact the community through technical development workshops\
+• Oversaw development of the chapter to further impact the community through technical development workshops
 
 ---
 
@@ -52,7 +52,7 @@ ACM supports the professional growth of its members by providing opportunities f
 • Elected President (2020 - 2021)\
 
 • Connected the chapter to external organizations for pro-bono software development services and acted as a liaison for guest speakers and local business opportunities\
-• Developed the community-based mentorship program in the chapter that matches transfer-ready students with first-year students to promote STEM awareness and success\
+• Developed the community-based mentorship program in the chapter that matches transfer-ready students with first-year students to promote STEM awareness and success
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
