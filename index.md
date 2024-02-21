@@ -62,9 +62,9 @@ ACM supports the professional growth of its members by providing opportunities f
 ---
 
 [Yonder Deep](https://yonderdeep.ucsd.edu/)
-
+<img src="images/yonder.jpeg?raw=true"/>
 Yonder Deep aims to design and manufacture a 3D-printed underwater autonomous vehicle (AUV).  \
-In collaboration with Dr. Grant Deane, we, a student-run STEM organization, are set to deploy on a mission in Svalbard, Norway in the summer of 2022. Our AUV will autonomously navigate to a glacier and dive to the terminus where it will record audio files of melting glaciers for Dr. Grant Deane’s research to determine the rate of rising sea levels. Our teams, which consist of mechanical, electrical, and software engineering fields, come together to continuously update new iterations of our AUV design. 
+In collaboration with Dr. Grant Deane, we, a student-run STEM organization, are set to deploy on a mission in Svalbard, Norway in the summer of 2025. Our AUV will autonomously navigate to a glacier and dive to the terminus where it will record audio files of melting glaciers for Dr. Grant Deane’s research to determine the rate of rising sea levels. Our teams, which consist of mechanical, electrical, and software engineering fields, come together to continuously update new iterations of our AUV design. 
 
 Was in the Electrical Team. 
 
