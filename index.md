@@ -20,8 +20,12 @@
 ### Extracurricular Activities
 
 [Society of American Military Engineers (SAME)](https://www.same.org/)
+<img src="images/same.jpg?raw=true"/>
+
+---
 
 [Association for Computer Machinery (ACM)](https://www.acm.org/)
+<img src="images/icpc.png?raw=true"/>
 
 ---
 
