@@ -4,24 +4,24 @@
 
 ### Work Experience
 
-[Northrop Grumman](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Northrop Grumman](https://www.northropgrumman.com/)
+<img src="images/ngc.jpg?raw=true"/>
 
 ---
-[Lawrence Berkeley National Laboratory](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Lawrence Berkeley National Laboratory](https://www.lbl.gov/)
+<img src="images/lbnl.jpg?raw=true"/>
 
 ---
-[NASA Jet Propulsion Laboratory](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/)
+<img src="images/jpl.jpg?raw=true"/>
 
 ---
 
 ### Extracurricular Activities
 
-[Society of American Military Engineers (SAME)](http://example.com/)
+[Society of American Military Engineers (SAME)](https://www.same.org/)
 
-[Association for Computer Machinery (ACM)](http://example.com/)
+[Association for Computer Machinery (ACM)](https://www.acm.org/)
 
 ---
 
